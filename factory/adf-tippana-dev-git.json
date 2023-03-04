@@ -1,0 +1,9 @@
+{
+	"name": "adf-tippana-dev-git",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad05f611-ac1f-4556-a42a-7f0a72b7790a",
+		"tenantId": "07227661-5c17-437f-98d3-abd27a696c16"
+	}
+}
